@@ -1,7 +1,7 @@
 ---
-Title: Photo Site <br>
-Type: Homework <br>
-Competencies: Full CRUD in Express with Mongoose - 2 Model <br>
+Title: Photo Site 
+Type: Homework 
+Competencies: Full CRUD in Express with Mongoose - 2 Model 
 Website credit goes to Kaylie Weable: https://picblog.herokuapp.com
 ---
 
