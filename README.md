@@ -9,12 +9,16 @@ Website credit goes to Kaylie Weable: https://picblog.herokuapp.com
 
 For the next two evenings, you will be creating a **two-model CRUD application** with Mongoose & MongoDB where users can post photos.
 
-# Suggested breakdown
+## Suggested breakdown
 
 - Day 1: Full CRUD for one of the models & seeding data.
 - Day 2: Create 2nd model and connect it to the first one.
 
 Use everything that you've been learning to accomplish the following:
+
+## Commits
+
+#### There should be about a couple dozen commits for this by the time you finish.
 
 ## Models & Schemas
 
@@ -118,22 +122,12 @@ Update and delete photo seems straightforward just to update the main Photo mode
 
 After you set up your models, consider making some seed data to help test your application.
 
-# Commits
-Make a commit after each section that you complete (or more frequently).
-
 # Hungry for more?
 
 ## CSS Framework
 
-- Use the CSS Framework Boostrap. Either use the CDN or download the minimized css file.
+- Style your application with Bootstrap. 
 
-- Choose at least 3 things to style in your application with Bootstrap. You can style the rest of your page however you'd like.
-
-<hr>
-**Commit your work.** <br>
-The commit message should read: <br>
-"Bootstrap used in app and styled: LIST AT LEAST 3 THINGS THAT YOU STYLED".
-<hr>
 
 ## Register a User
 
@@ -146,3 +140,5 @@ You've collected the user's password. Research how you might use this to verify 
 - [bcrypt](https://codahale.com/how-to-safely-store-a-password/)
 
 - [bcrypt on npm](https://www.npmjs.com/package/bcrypt)
+
+> We will cover all of the above in the next couple of days.
