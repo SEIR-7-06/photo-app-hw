@@ -2,10 +2,10 @@
 
 # Photo Site
 
+
 Type: Homework 
 Competencies: Full CRUD in Express with Mongoose - 2 Model 
 Website credit goes to Kaylie Weable: https://picblog.herokuapp.com
-----
 
 
 For the next two evenings, you will be creating a **two-model CRUD application** with Mongoose & MongoDB where users can post photos.
