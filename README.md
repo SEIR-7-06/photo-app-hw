@@ -1,4 +1,3 @@
-
 ---
 Title: Photo Site 
 Type: Homework 
