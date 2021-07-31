@@ -7,7 +7,7 @@ Type: Homework
 Competencies: Full CRUD in Express with Mongoose - 2 Model <br>
 Website credit goes to Kaylie Weable: https://picblog.herokuapp.com
 
-For the next two evenings, you will be creating a **two-model CRUD application** with Mongoose & MongoDB where users can post photos.
+For this activity you'll be creating a **two-model CRUD application** with Mongoose & MongoDB where users can post photos.
 
 #### READ THIS ENTIRE LAB BEFORE YOU DO ANYTHING.
 
